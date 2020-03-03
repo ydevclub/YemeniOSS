@@ -10,6 +10,7 @@ If you have any sort of Open Source Software (OSS)hosted in GitHub, we 're glad 
 
 ## Contributors
 This list contains all the Yemeni contributors sorting by their projects total number.
+For more information about the available OSS please refer to [CONTRIBUTORS.md](https://github.com/ydevclub/YemeniOSS/blob/master/CONTRIBUTORS.md).
 
  Rank    | Name       | Projects No.      | Avatar      |
 |-----------------|----------------|-------------|-------------|
