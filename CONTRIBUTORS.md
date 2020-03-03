@@ -31,6 +31,8 @@ A list of Yemeni contributors with their OSS.
 | | [Hotlinking Prevention](https://github.com/hishamco/HotlinkingPrevention) | Restrict image hotlinking in ASP.NET Core 1.0 |
 | | [This Developers Life](https://github.com/hishamco/ThisDevelopersLife) | Scott Hanselman "This Developer's Life" podcast using Razor Pages |
 | | [Custom Error Pages](https://github.com/hishamco/CustomErrorPages) | Configurable & Customizable Error Pages for ASP.NET Core 1.0 |
+| | [Minifiers TagHelpers](https://github.com/hishamco/MinifiersTagHelpers) | CSS & JavaScript Minification TagHelpers |
+| | [JQL](https://github.com/hishamco/JQL) | JSON Query Language |
 | [Majed Bojan](https://github.com/MajedBojan) | [simple_request](https://github.com/MajedBojan/simple_request)            | Simple ruby gem that helps you to make HTTP and HTTPS request from ruby projects |
 |  | [mobily-sms](https://github.com/MajedBojan/mobily-sms)            | Allows to integrate with mobily.ws service |
 | [MohammedSDev](https://github.com/MohammedSDev) | [app-api](https://github.com/MohammedSDev/app-api)            | Easy api hit using customized retrofit |
