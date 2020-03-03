@@ -14,5 +14,6 @@ For more information about the available OSS please refer to [CONTRIBUTORS.md](h
 
  Rank    | Name       | Projects No.      | Avatar      |
 |-----------------|----------------|-------------|-------------|
-| 1. | [MohammedSDev](https://github.com/MohammedSDev) | 6 | <img src="https://avatars3.githubusercontent.com/u/25266549" width="40" /> |
-| 2. | [Majed Bojan (MajedBojan)](https://github.com/MajedBojan) | 2 | ![MajedBojan](https://avatars3.githubusercontent.com/u/24647654?s=40&v=4) |
+| 1. | [Hisham Bin Ateya (hishamco)](https://github.com/hishamco) | 28 | ![hishamco](https://avatars2.githubusercontent.com/u/3237266?s=40&v=4) |
+| 2. | [MohammedSDev](https://github.com/MohammedSDev) | 6 | <img src="https://avatars3.githubusercontent.com/u/25266549" width="40" /> |
+| 3. | [Majed Bojan (MajedBojan)](https://github.com/MajedBojan) | 2 | ![MajedBojan](https://avatars3.githubusercontent.com/u/24647654?s=40&v=4) |
