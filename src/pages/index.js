@@ -3,7 +3,7 @@ import React, { useState } from "react"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Wrapper from "../components/wrapper"
-import conrtibuters from "../../../conrtibuters.yml" // TODO source data from graphql
+import conrtibuters from "../../conrtibuters.yml" // TODO source data from graphql
 import Contributer from "../components/contributer"
 import SmallBox from "../components/small-box"
 
