@@ -30,7 +30,8 @@ const IndexPage = () => {
     ? setSeletedTags(seletedTags.filter((item) => item !== tag))
     : setSeletedTags([...seletedTags, tag])
 
-  const uniqTags = [...new Set(tags.flat())]
+  const flatTags = tags ? tags.flat() : []
+  const uniqTags = [...new Set(flatTags)]
 
   const conrtibutersPerThree = contributersList.length / 3
   const columns = [
@@ -46,7 +47,7 @@ const IndexPage = () => {
         <div style={{ display: "flex", justifyContent: 'center', flexWrap: 'wrap', marginBottom: 50 }}>
           {uniqTags.map((tag) => <SmallBox key={tag} style={{ cursor: 'pointer' }} active={tagSelected(tag)} onClick={() => handleSelectTag(tag)}>{tag}</SmallBox>)}
         </div>
-        <div style={{ display: "flex", justifyContent: 'space-between' }}>
+        <div style={{ display: "flex", justifyContent: 'space-between', flexWrap: 'wrap' }}>
           {columns.map((column) => (
             <div style={{ display: "flex", flexDirection: 'column', flex: '0 1 320px' }}>
               {column}
