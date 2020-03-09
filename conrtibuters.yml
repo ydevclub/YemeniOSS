@@ -1,0 +1,289 @@
+- name: Hisham Bin Ateya
+  description: "I'm learning ASP.NET Core and write about it"
+  github: "hishamco"
+  website: "http://www.hishambinateya.com/"
+  twitter: "@hishambinateya"
+  emoji: 🎧
+  governorate: "Hadhramout"
+  projects:
+    - name: "My.Extensions.Localization.Json"
+      url: https://github.com/hishamco/My.Extensions.Localization.Json
+      description: JSON Localization Resources
+      tags:
+        - .NET
+        - JSON
+    - name: "My.AspNetCore.Localization.Json"
+      url: "https://github.com/hishamco/My.AspNetCore.Localization.Json"
+      description: "Localization JSON Request Culture Provider"
+      tags:
+        - ASP.NET
+        - JSON
+        - C#
+    - name: "Json Builder"
+      url: "https://github.com/hishamco/JsonBuilder"
+      description: "JSON APIs for .NET"
+      tags:
+        - ASP.NET
+        - JSON
+        - C#
+    - name: "Blazor Validation Controls"
+      url: "https://github.com/hishamco/BlazorValidationControls"
+      description: "Set of validation controls for Blazor"
+      tags:
+        - ASP.NET
+        - Blazor
+        - C#
+    - name: "Localization Resource Generator"
+      url: "https://github.com/hishamco/LocalizationResourceGenerator"
+      description: "Localization Resource Generator & Translator CommandLine Tool for ASP.NET Core Application"
+      tags:
+        - ASP.NET
+        - Localization
+        - C#
+    - name: "Blazor Chart Controls"
+      url: "https://github.com/hishamco/BlazorChartControls"
+      description: "Chart Controls using Blazor & morris.js"
+      tags:
+        - ASP.NET
+        - Chart
+        - C#
+        - JavaScript
+    - name: "WebForms"
+      url: "https://github.com/hishamco/WebForms"
+      description: "ASP.NET Core Web Forms is MVC alternative that use event-driven programming model for building dynamic web application"
+      tags:
+        - ASP.NET
+        - Forms
+        - C#
+    - name: "Bloggy"
+      url: "https://github.com/hishamco/Bloggy"
+      description: "A simple blog engine using ASP.NET Core RazorPages"
+      tags:
+        - ASP.NET
+        - RazorPages
+        - C#
+        - blog
+    - name: "My.AspNetCore.Mvc.TagHelpers"
+      url: "https://github.com/hishamco/My.AspNetCore.Mvc.TagHelpers"
+      description: "A bunch of useful Tag Helpers for ASP.NET Core"
+      tags:
+        - ASP.NET
+        - C#
+    - name: "Razor Pages Commands"
+      url: "https://github.com/hishamco/RazorPagesCommands"
+      description: "Custom Razor Pages Handlers"
+      tags:
+        - ASP.NET
+        - RazorPages
+        - C#
+    - name: "vRedis"
+      url: "https://github.com/hishamco/vRedis"
+      description: "Redis client using VB.NET"
+      tags:
+        - VB.NET
+        - Redis
+        - VB
+    - name: "dRoutes"
+      url: "https://github.com/hishamco/dRoutes"
+      description: "Declarative Routing API for ASP.NET WebForms"
+      tags:
+        - ASP.NET
+        - Forms
+        - C#
+    - name: "PartialsJS"
+      url: "https://github.com/hishamco/PartialsJS"
+      description: ""
+      tags:
+        - PartialsJS
+        - JavaScript
+    - name: "Power BI TagHelper"
+      url: "https://github.com/hishamco/PowerBI-TagHelper"
+      description: "TagHelper for embedding Power BI into your ASP.NET Core application"
+      tags:
+        - ASP.NET Core
+        - BI
+        - C#
+    - name: "Theming"
+      url: "https://github.com/hishamco/Theming"
+      description: "Theming in ASP.NET Core"
+      tags:
+        - ASP.NET Core
+        - Theming
+        - C#
+    - name: "vRedis"
+      url: "https://github.com/hishamco/vRedis"
+      description: "Redis client using VB.NET"
+      tags:
+        - VB.NET
+        - Redis
+        - VB
+    - name: "Language Switcher TagHelper"
+      url: "https://github.com/hishamco/LanguageSwitcherTagHelper"
+      description: "Language Switcher TagHelper"
+      tags:
+        - ASP.NET
+        - TagHelper
+        - C#
+    - name: "jsLogger"
+      url: "https://github.com/hishamco/jsLogger"
+      description: "Integrate JavaScript Logging with ASP.NET Core Logging APIs"
+      tags:
+        - ASP.NET
+        - Logging
+        - JavaScript
+    - name: "mDocs"
+      url: "https://github.com/hishamco/mDocs"
+      description: "Project documentation with Markdown using ASP.NET Core"
+      tags:
+        - ASP.NET Core
+        - Markdown
+        - C#
+    - name: "Markdown View Engine"
+      url: "https://github.com/hishamco/MarkdownViewEngine"
+      description: "Markdown View Engine for ASP.NET Core"
+      tags:
+        - ASP.NET Core
+        - Markdown
+        - C#
+    - name: "My.AspNetCore.Localization.Session"
+      url: "https://github.com/hishamco/My.AspNetCore.Localization.Session"
+      description: "Localization Session State Request Culture Provider"
+      tags:
+        - ASP.NET Core
+        - Localization
+        - C#
+    - name: "Colorized Console Logger Provider"
+      url: "https://github.com/hishamco/ColorizedConsoleLoggerProvider"
+      description: ""
+      tags:
+        - ASP.NET Core
+        - Logging
+        - C#
+    - name: "Application Insights Logging"
+      url: "https://github.com/hishamco/ApplicationInsightsLogging"
+      description: "Application Insights Logging APIs for ASP.NET Core"
+      tags:
+        - ASP.NET Core
+        - Logging
+        - C#
+    - name: "Chart Controls"
+      url: "https://github.com/hishamco/ChartControls"
+      description: "Chart Controls using TagHelpers & morris.js"
+      tags:
+        - ASP.NET Core
+        - Chart
+        - C#
+        - JavaScript
+    - name: "Request Filtering"
+      url: "https://github.com/hishamco/RequestFiltering"
+      description: "Request Filtering middleware for ASP.NET Core applications"
+      tags:
+        - ASP.NET Core
+        - C#
+    - name: "Yaml Configuration"
+      url: "https://github.com/hishamco/YamlConfiguration"
+      description: "Yaml Configuration support for ASP.NET Core"
+      tags:
+        - ASP.NET Core
+        - Yaml
+        - C#
+    - name: "Hotlinking Prevention"
+      url: "https://github.com/hishamco/HotlinkingPrevention"
+      description: "Restrict image hotlinking in ASP.NET Core 1.0"
+      tags:
+        - ASP.NET Core
+        - C#
+    - name: "This Developers Life"
+      url: "https://github.com/hishamco/ThisDevelopersLife"
+      description: Scott Hanselman "This Developer's Life" podcast using Razor Pages
+      tags:
+        - ASP.NET Core
+        - Redis
+        - C#
+    - name: "Custom Error Pages"
+      url: "https://github.com/hishamco/CustomErrorPages"
+      description: "Configurable & Customizable Error Pages for ASP.NET Core 1.0"
+      tags:
+        - ASP.NET Core
+        - C#
+    - name: "Minifiers TagHelpers"
+      url: "https://github.com/hishamco/MinifiersTagHelpers"
+      description: "CSS & JavaScript Minification TagHelpers"
+      tags:
+        - ASP.NET Core
+        - TagHelper
+        - C#
+    - name: "JQL"
+      url: "https://github.com/hishamco/JQL"
+      description: "JSON Query Language"
+      tags:
+        - ASP.NET Core
+        - JSON
+        - C#
+
+- name: محمد باحشوان
+  description:
+  github: "MohammedSDev"
+  website: "https://github.com/MohammedSDev/"
+  twitter: "@MohammedSDev"
+  emoji: 🎧
+  governorate: "Hadhramout"
+  computer: "apple"
+  projects:
+    - name: "app-api"
+      url: "https://github.com/MohammedSDev/app-api"
+      description: "مكتبة سهلة للتعامل مع api , بإستخدام retrofit2"
+      tags:
+        - Android
+        - Kotlin
+    - name: app-base
+      url: https://github.com/MohammedSDev/app-base
+      description: كلاسات بالدوال الاساسية لأي مشروع + الترتيب الكود
+      tags:
+        - Android
+        - Kotlin
+    - name: app-ktx
+      url: https://github.com/MohammedSDev/app-ktx
+      description: مجموعة من الدوال المساعده و الشائعة
+      tags:
+        - Android
+        - Kotlin
+    - name: app-ui
+      url: https://github.com/MohammedSDev/app-ui
+      description: مجموعة من views مجهزه بالإضافات
+      tags:
+        - Android
+        - Kotlin
+    - name: app-adapter
+      url: https://github.com/MohammedSDev/app-adapter
+      description: ادبتر جاهز للإستخدام من دون الحاجة إلى الوراثة من RecyclerView.Adapter, يدعم اللست الثابته و اللست مقسمة من الصفحات
+      tags:
+        - Android
+        - Kotlin
+    - name: app-attachment
+      url: https://github.com/MohammedSDev/app-adapter
+      description: Dialog/api سهل التعديل وجاهز للإستخدام, يدعم أخذ الصور من الكيمرا,الاستديوا وقوقول درايف
+      tags:
+        - Android
+        - Kotlin
+
+- name: ماجد بوجان
+  description: "Self-Taught Back-End Developer @rails || Aspiring Full-Stack Developer || Tech enthusiast || Blogger at @medium || Husband || Big fans of FC. Barcelona."
+  github: "MajedBojan"
+  website: "https://majedbojan.github.io"
+  twitter: "@MaJeDBojaN"
+  emoji: 🎧
+  governorate: "Hadhramout"
+  projects:
+    - name: "simple_request"
+      url: https://github.com/MajedBojan/simple_request
+      description: Simple ruby gem that helps you to make HTTP and HTTPS request from ruby projects
+      tags:
+        - Ruby on Rails
+        - Ruby
+    - name: "mobily-sms"
+      url: "https://github.com/MajedBojan/mobily-sms"
+      description: "Allows to integrate with mobily.ws service"
+      tags:
+        - "Ruby on Rails"
+        - "Ruby"
